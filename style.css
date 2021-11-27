@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: auto;
+    width: 600px;
+    border: 3px solid blue;
+}
+h1 {
+	color: yellow;
+	margin-top: 0;
+}
+div {
+    background-color: thistle;
+    margin: auto;
+    height: 25px;
+
+}
