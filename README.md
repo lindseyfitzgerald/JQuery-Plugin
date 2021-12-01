@@ -1,6 +1,6 @@
 # JQuery-Plugin
 JQuery Password Strength plugin in a simple plugin designed to check the strength of a user provided password. 
-
+To download this plugin you will need the latest jquery installed. V3.6.0
 To use the plugin simply call the check method as shown below:
 
 ![image](https://user-images.githubusercontent.com/84094288/144269025-516ed06c-d4bc-4130-965c-0f72434a3edf.png)
